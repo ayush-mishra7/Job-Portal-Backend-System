@@ -41,7 +41,6 @@ The Job Portal project aims to create a robust and user-friendly platform for jo
 - ## **Recruiter Profile Management**:
     - **Profile Setup**: Allows recruiters to set up and update their profiles with relevant information.
 
-  ![Recruiter Profile](https://github.com/hey-its-d2t2/Job-Portal/assets/63626210/bedf73dd-1fa3-42e3-99bc-7644309c81af)
 
 - ## **Job Posting**:
     - **Add New Job**: Enables recruiters to post new job openings with detailed job descriptions, requirements, and other relevant
@@ -51,29 +50,22 @@ The Job Portal project aims to create a robust and user-friendly platform for jo
 - ## Recruiter Dashboard:
   - **View Job Listings**: Allows recruiters to view all their posted jobs, along with relevant details such as the number of applications, job status, and the ability to edit or delete postings.
 
-  <img width="1886" height="941" alt="Screenshot 2025-09-21 163505" src="https://github.com/user-attachments/assets/1d71b6fa-b9b2-4065-9da8-b03d6113e96b" />
 
 - **Edit Job Listings**: Allows recruiters to edit all their posted jobs, along with relevant details such as the number of applications, job status, and the ability to edit or delete postings.
   
-  <img width="1886" height="903" alt="Screenshot 2025-09-21 163547" src="https://github.com/user-attachments/assets/da8aefcb-c832-4f40-9c7a-047ac89f8453" />
 
 - `Edit`, `Delete` and Applied Candidates, click on candidate name to view application details and `download resume`
-  <img width="1871" height="931" alt="Screenshot 2025-09-21 163620" src="https://github.com/user-attachments/assets/fa3ee28d-7707-42cb-b87e-270e55ca0506" />
 
 - **Candidate Profile**: Allows recruiters to view and Doenload resueme of candidate, along with relevant details such as the skills, experience....
 
-  <img width="1887" height="932" alt="Screenshot 2025-09-21 163647" src="https://github.com/user-attachments/assets/2df8f7ac-7be8-4e5a-b0e2-6b206e67702e" />
 
 - ## Candidate Dashboard:
   - **View Job Listings and Search**: Allows candiates to view all posted jobs, along with search and filter.
   
-  <img width="1887" height="928" alt="Screenshot 2025-09-21 163758" src="https://github.com/user-attachments/assets/accf22b6-2fd4-4aa8-918a-503a2839399f" />
 - **View Job Details Apply and Save**: Allows candiates to view posted job, candidate cna apply and save the job for future.
 
-  <img width="1907" height="936" alt="Screenshot 2025-09-21 163822" src="https://github.com/user-attachments/assets/55243425-330b-47a7-a93c-003b1066bbfa" />
 - **View Saved Jobs**: Allows candiates to view all his saved job, candidate cna view and apply to saved job by going inside.
   
-  <img width="1905" height="930" alt="Screenshot 2025-09-21 163913" src="https://github.com/user-attachments/assets/eb25d092-657f-41e7-81f8-1417cb47a799" />
 
 # Planned Functionalities:
 
